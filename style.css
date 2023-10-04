@@ -1,0 +1,16 @@
+h1{
+    color:blue;
+}
+.r1{
+    color:white;
+    background-color: darkslateblue;
+}
+#c1{
+    color: chartreuse;
+}
+li{
+    color: cornflowerblue;
+}
+*{
+    background-color: peru;
+}
